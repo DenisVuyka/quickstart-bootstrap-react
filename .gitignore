@@ -29,3 +29,7 @@ node_modules
 
 # Bower
 bower_components
+
+# Automatically generated files
+www/js/app.*
+www/css/app.min.*
