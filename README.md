@@ -4,7 +4,7 @@ Basic HTML5/Bootstrap template with React support.
 ## Setup
 
 ```sh
-bower install && npm install
+npm install
 ```
 
 ## Build
