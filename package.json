@@ -6,6 +6,7 @@
   "author": "Denis Vuyka <denis.vuyka@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.12.3",
     "page": "^1.6.1",
     "react": "^0.13.1"
   },
