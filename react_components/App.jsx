@@ -1,8 +1,8 @@
 /** @jsx React.DOM */
 
-var React   = require('react');
-var NavBar  = require('./core/NavBar.react');
-var MainContent = require('./core/MainContent.react');
+var React = require('react'),
+    NavBar = require('./core/NavBar.react'),
+    MainContent = require('./core/MainContent.react');
 
 React.render(
   <div>
