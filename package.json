@@ -8,7 +8,8 @@
   "dependencies": {
     "express": "^4.12.3",
     "page": "^1.6.1",
-    "react": "^0.13.1"
+    "react": "^0.13.1",
+    "react-bootstrap": "^0.21.0"
   },
   "devDependencies": {
     "browserify": "^9.0.3",
